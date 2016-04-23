@@ -1,6 +1,6 @@
 name: annahepler
 favicon: null
-layout_spectrum: 0.663094047922641
+layout_spectrum: 0.87823
 typography_spectrum: 0.565568566787988
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.3557295547798276
+  brandStrength: 0.125
   lightness: 0.9341427311301231
-  saturation: 0.42223731707781553
+  saturation: 0.25
   rhythmicContrast: 0.9909134972840548
 purpose: []
